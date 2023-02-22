@@ -47,7 +47,7 @@
 
 ### Declarative versus imperative
 
-[Code Demo](imperative-declarative.ts)
+[Code Demo](./fundamentals/imperative-declarative.ts)
 
 ### Immutability
 
@@ -80,36 +80,11 @@
 ### Laziness
 
 - The idea behind lazy evaluation is that operations are not computed until doing so can no longer be postponed.
-- [Code Demo](laziness.ts)
+- [Code Demo](./fundamentals/laziness.ts)
 
 ## Mastering Functions
 
 ### Function types
 
-#### Named and anonymous functions
-
-#### Function declarations and function expressions
-
-## Working with function parameters
-
-### Trailing commas in function arguments
-
-### Functions with optional parameters
-
-### Functions with default parameters
-
-### Functions with rest parameters
-
-### Function overloading signature
-
-## Function scope and hoisting
-
-## Immediately-invoked functions
-
-## Tag functions and tagged templates
-
-## Mastering Asynchronous Programming
-
-## Callback hell
-
-## Generator
+- [Code Demo](./mastering_functions/function_types.ts)
+  
